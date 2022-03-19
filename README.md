@@ -10,6 +10,6 @@ I'm Tobias Andre!
 ![Snake animation](https://github.com/TobiasAndre/TobiasAndre/blob/output/github-contribution-grid-snake.svg)
 <div style="text-align=center">
   <a href="https://github.com/TobiasAndre">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TobiasAndre&show_icons=true&theme=default&include_all_commits-true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasAndre&layout=compact&langs_count=16&theme=default" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TobiasAndre&show_icons=true&theme=graywhite&include_all_commits-true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasAndre&layout=compact&langs_count=16&theme=graywhite" />
 </div>
